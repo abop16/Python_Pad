@@ -12,3 +12,10 @@ Required libraries:
 To make into a desktop app:
 1: run cat /path/to/pythonpad.desktop > ~/.local/share/applications/pythonpad.desktop in the command line.
 2: restart your machine
+
+
+![pypad](https://github.com/user-attachments/assets/83c08642-abda-4f86-a97b-daeacb7ccd3f)
+
+Future updates: Dark mode
+
+Contact me at kramer.aiden.a@gmail.com for update ideas and issues
