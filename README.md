@@ -1,6 +1,6 @@
 # Python_Pad
-A simple python text editor for use in linux
-I am working on integrating it into a desktop app, but for now it is just a python file.
+A simple python text editor
+NOTE: it only currently works as a text editor on linux. please tell me if you know how to make it into an app on windows/macos.
 Icon will be for desktop app
 Required libraries:
   tkinter
