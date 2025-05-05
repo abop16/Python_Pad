@@ -10,4 +10,5 @@ Required libraries:
   platform
 
 To make into a desktop app:
-1: run nano ~/.local/share/applications/pythonpad.desktop in the command line
+1: run cat /path/to/pythonpad.desktop > ~/.local/share/applications/pythonpad.desktop in the command line.
+2: restart your machine
