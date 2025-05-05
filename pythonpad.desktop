@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PythonPad
+Comment=A simple Python-based text editor
+Exec=python3 /path/to/pypad/main.py
+Icon=/path/to/pypad/icon/PyPadIcon.png
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;
+StartupNotify=true
