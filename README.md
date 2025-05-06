@@ -10,12 +10,17 @@ Required libraries:
   platform
 
 To make into a desktop app:
-1: run cat /path/to/pythonpad.desktop > ~/.local/share/applications/pythonpad.desktop in the command line.
-2: restart your machine
 
+1: move install.sh to your home directory
+
+2: in install.sh, replace the paths with your paths and if you are using zsh, replace #!/bin/bash with #!/bin/zsh
+
+3: run chmod +x script.sh in your terminal
+
+4: run install.sh in your terminal wih ./install.sh
 
 ![pypad](https://github.com/user-attachments/assets/83c08642-abda-4f86-a97b-daeacb7ccd3f)
 
-Future updates: Dark mode
+Future updates: Dark mode, printing
 
 Contact me at kramer.aiden.a@gmail.com for update ideas and issues
